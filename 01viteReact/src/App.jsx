@@ -1,7 +1,13 @@
+import Chai from "./Chai.jsx";
+
 function App() {
   return (
-    <h1>Hello React</h1>
-  )
+    <>
+      <Chai />
+      <h3>hello</h3>
+      <p>hehehe</p>
+    </>
+  );
 }
 
-export default App
+export default App;
